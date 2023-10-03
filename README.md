@@ -6,6 +6,8 @@ Add following html script tag where you want Rendify catalogue in you HTML tree.
 
 `<script id="rendifyscript" customer="#" items="#" theme="#" zoom="#" src="https://krs087.github.io/rendify/rendify.js"></script>`
 
+Demo: https://krs087.github.io/rendify/demo.html
+
 #### Customization
 * customer: Rendify customer ID (important to set)
 * items: number of items shown (not need to set, default: 12)
