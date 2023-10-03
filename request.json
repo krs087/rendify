@@ -1,0 +1,753 @@
+[
+{
+"id": 207,
+"manufacturer": "Ants",
+"name": "Kreissaag",
+"rating": 0,
+"description": "Töötab tööstusvooluga ",
+"additionalServices": [],
+"priceHour": null,
+"priceDaily": 32,
+"cost": 0,
+"categoryId": 32,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-06-06T05:30:09.525Z",
+"endTs": "2023-06-06T14:00:09.525Z",
+"createdTs": "2023-06-06T13:20:09.717641Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.3671415 25.5973724)",
+"images": [
+{
+"id": 524,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/207_883c8b9e-6634-474e-a74d-4630e214fd49.",
+"title": null,
+"meta": null,
+"order": 1
+},
+{
+"id": 525,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/207_8f4332fa-fa3b-4c19-9b6d-c0f36f32d744.",
+"title": null,
+"meta": null,
+"order": 2
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 206,
+"manufacturer": "Kärcher ",
+"name": "Survepesur ",
+"rating": 0,
+"description": "Survepesur ",
+"additionalServices": [],
+"priceHour": null,
+"priceDaily": 26.88,
+"cost": 0,
+"categoryId": 32,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-06-06T05:30:26.623Z",
+"endTs": "2023-06-06T14:00:26.624Z",
+"createdTs": "2023-06-06T13:18:26.946644Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.3671415 25.5973724)",
+"images": [
+{
+"id": 522,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/206_0c41259d-d0e3-4416-9895-8e6cb01096d6.",
+"title": null,
+"meta": null,
+"order": 1
+},
+{
+"id": 523,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/206_ac8243c5-62b5-4b0a-af05-ec64bba4a508.",
+"title": null,
+"meta": null,
+"order": 2
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 205,
+"manufacturer": "838YLH #49",
+"name": "brentex  Paadihaagis ",
+"rating": 0,
+"description": "Paadihaagis  kuni 5,7m paadile",
+"additionalServices": [],
+"priceHour": 4.22,
+"priceDaily": 21.25,
+"cost": 0,
+"categoryId": 17,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-06-18T05:00:45.9Z",
+"endTs": "2023-06-18T14:00:45.9Z",
+"createdTs": "2023-06-06T12:47:01.749649Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.3671415 25.5973724)",
+"images": [
+{
+"id": 519,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/205_e6444379-f097-49bb-a639-1b27defa2131.",
+"title": null,
+"meta": null,
+"order": 1
+},
+{
+"id": 520,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/205_a8a60271-a196-4e98-9018-d97b08f63e4e.",
+"title": null,
+"meta": null,
+"order": 2
+},
+{
+"id": 521,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/205_4292b398-913f-4a20-9e10-977ef3c4cd6d.",
+"title": null,
+"meta": null,
+"order": 3
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 204,
+"manufacturer": "482 YLP #50",
+"name": "brentex paadihaagis  ",
+"rating": 0,
+"description": "Paadile kuni 4,2m ",
+"additionalServices": [],
+"priceHour": 3.2,
+"priceDaily": 13.57,
+"cost": 0,
+"categoryId": 17,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-06-18T05:00:45.029Z",
+"endTs": "2023-06-18T14:00:45.029Z",
+"createdTs": "2023-06-06T12:43:52.159727Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.3671415 25.5973724)",
+"images": [
+{
+"id": 516,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/204_b145b698-e6e7-4a4b-bb32-49443c59ec6c.",
+"title": null,
+"meta": null,
+"order": 1
+},
+{
+"id": 517,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/204_9fc4386b-4376-412e-adbd-adfc03d5475d.",
+"title": null,
+"meta": null,
+"order": 2
+},
+{
+"id": 518,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/204_3d0c193a-d272-4b56-a8fe-c71a5edd7a39.",
+"title": null,
+"meta": null,
+"order": 3
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 203,
+"manufacturer": "Ktm ",
+"name": "690 enduro",
+"rating": 0,
+"description": "A kategooria mootorratas   2010 a. ",
+"additionalServices": [],
+"priceHour": 0,
+"priceDaily": 83.2,
+"cost": 150,
+"categoryId": 10,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-06-06T05:30:29.554Z",
+"endTs": "2023-06-06T14:00:29.555Z",
+"createdTs": "2023-06-06T12:39:13.854249Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.3671415 25.5973724)",
+"images": [
+{
+"id": 512,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/203_33a513da-27a4-4b4a-8bc3-c30c95f41984.",
+"title": null,
+"meta": null,
+"order": 1
+},
+{
+"id": 513,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/203_e7ba2a7c-358f-4fc5-8b8d-668bf4fe8b15.",
+"title": null,
+"meta": null,
+"order": 2
+},
+{
+"id": 514,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/203_da5c443d-73a6-4019-ac18-0c6a7ac3bf45.",
+"title": null,
+"meta": null,
+"order": 3
+},
+{
+"id": 515,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/203_d70fd6b8-c75c-4142-94cb-45cfa018d5cf.",
+"title": null,
+"meta": null,
+"order": 4
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 176,
+"manufacturer": "Thule ",
+"name": "Katusebox",
+"rating": 0,
+"description": "Katusebox, kinnitused ristitalale, lukustatav, sees rihmad kauba kinnitamiseks. ",
+"additionalServices": [],
+"priceHour": null,
+"priceDaily": 10,
+"cost": 0,
+"categoryId": 25,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-03-17T06:30:47.587Z",
+"endTs": "2023-03-17T15:00:47.588Z",
+"createdTs": "2023-03-17T14:15:48.038361Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.3605633 25.5805231)",
+"images": [
+{
+"id": 408,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/176_bfa73fcd-6268-4fe0-b6a6-70897e726537.",
+"title": null,
+"meta": null,
+"order": 1
+},
+{
+"id": 409,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/176_b7d8e989-8bb7-4e2e-84f3-7a4bf3ae1760.",
+"title": null,
+"meta": null,
+"order": 2
+},
+{
+"id": 410,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/176_b3cb662a-9953-4dba-9428-0f51aa871fd8.",
+"title": null,
+"meta": null,
+"order": 3
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 149,
+"manufacturer": "035YMT #19",
+"name": "respo  3x1,25 ",
+"rating": 0,
+"description": "kerghaagis  3x1,25    kandevõime 500kg",
+"additionalServices": [],
+"priceHour": 3.14,
+"priceDaily": 13.54,
+"cost": 0,
+"categoryId": 17,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-06-18T05:00:10.723Z",
+"endTs": "2023-06-18T14:00:10.723Z",
+"createdTs": "2023-02-23T12:16:42.255137Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.3605633 25.5805231)",
+"images": [
+{
+"id": 322,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/149_35c94663-dbd3-43f7-b3be-88644b9614e2.",
+"title": null,
+"meta": null,
+"order": 0
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 148,
+"manufacturer": "873YMM  #15",
+"name": "brentex 4x1.5",
+"rating": 0,
+"description": "Kerghaagis (4x1,5m)  400kg",
+"additionalServices": [],
+"priceHour": 4.16,
+"priceDaily": 20.84,
+"cost": 0,
+"categoryId": 17,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-06-18T05:00:28.99Z",
+"endTs": "2023-06-18T14:00:28.99Z",
+"createdTs": "2023-02-23T11:54:47.047345Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.363476 25.5859691)",
+"images": [
+{
+"id": 323,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/148_16f2f3ba-15ed-4ad1-b605-f77a7e5b3cff.",
+"title": null,
+"meta": null,
+"order": 0
+},
+{
+"id": 324,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/148_2fa5146b-d8b5-4c1d-9b11-f9e78bdf06e7.",
+"title": null,
+"meta": null,
+"order": 1
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 147,
+"manufacturer": "811 YLP  #43",
+"name": "brentex 3x1,25",
+"rating": 0,
+"description": "kõrgenduste ja kattega haagis  kandevõime 500kg",
+"additionalServices": [],
+"priceHour": 3.14,
+"priceDaily": 13.54,
+"cost": 0,
+"categoryId": 17,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-06-18T05:00:29.717Z",
+"endTs": "2023-06-18T14:00:29.717Z",
+"createdTs": "2023-02-23T11:49:30.861905Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.3605633 25.5805231)",
+"images": [
+{
+"id": 325,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/147_2e49d6db-3b33-4b0e-a9bd-303ac8b0ca4d.",
+"title": null,
+"meta": null,
+"order": 0
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 146,
+"manufacturer": "808 YLP  #42",
+"name": "brentex 3x1,25 kattega",
+"rating": 0,
+"description": " kandevõime 500KG",
+"additionalServices": [],
+"priceHour": 3.14,
+"priceDaily": 13.54,
+"cost": 0,
+"categoryId": 17,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-06-18T05:00:05.973Z",
+"endTs": "2023-06-18T14:00:05.975Z",
+"createdTs": "2023-02-23T11:41:29.196642Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.3605633 25.5805231)",
+"images": [
+{
+"id": 326,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/146_3eddfd9c-3bf5-4275-9c98-04f0c7b59ebd.",
+"title": null,
+"meta": null,
+"order": 0
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 125,
+"manufacturer": "scheppach",
+"name": "hw2500",
+"rating": 0,
+"description": "Kahvelkäru 2500kg ",
+"additionalServices": [],
+"priceHour": null,
+"priceDaily": 12.5,
+"cost": 0,
+"categoryId": 49,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-02-06T06:00:13.361Z",
+"endTs": "2023-02-06T15:00:13.361Z",
+"createdTs": "2023-02-06T12:37:21.346394Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.363476 25.5859691)",
+"images": [
+{
+"id": 276,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/125_a206bc8e-48a5-48df-89f4-20e11a55a11a.",
+"title": null,
+"meta": null,
+"order": 0
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 124,
+"manufacturer": "trepikäru ",
+"name": "sano liftkar sal 140",
+"rating": 0,
+"description": "Trepikäru 140kg ",
+"additionalServices": [
+{
+"id": 72,
+"name": "transport Viljandi linna piires",
+"additionalInfo": null,
+"cost": 15
+}
+],
+"priceHour": 0,
+"priceDaily": 25,
+"cost": 0,
+"categoryId": 32,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-06-18T05:00:54.098Z",
+"endTs": "2023-06-18T14:00:54.098Z",
+"createdTs": "2023-02-06T12:32:48.496255Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.363476 25.5859691)",
+"images": [
+{
+"id": 277,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/124_bfe446e4-ef2e-4a2d-991f-7a6dc27f9249.",
+"title": null,
+"meta": null,
+"order": 0
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 123,
+"manufacturer": "haklift",
+"name": "5000kg",
+"rating": 0,
+"description": "siirdealus 6 ratast  5000kg",
+"additionalServices": [],
+"priceHour": null,
+"priceDaily": 6.25,
+"cost": 0,
+"categoryId": 49,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-02-06T06:00:05.414Z",
+"endTs": "2023-02-06T15:00:05.414Z",
+"createdTs": "2023-02-06T12:30:06.274278Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.363476 25.5859691)",
+"images": [
+{
+"id": 278,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/123_243d6883-b4bb-4682-a3d3-e377f1dfae39.",
+"title": null,
+"meta": null,
+"order": 0
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 122,
+"manufacturer": "haklift",
+"name": "sialu60",
+"rating": 0,
+"description": "siirdealus kuni 6000kg ",
+"additionalServices": [],
+"priceHour": null,
+"priceDaily": 6.25,
+"cost": 0,
+"categoryId": 49,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-02-06T06:00:06.138Z",
+"endTs": "2023-02-06T15:00:06.138Z",
+"createdTs": "2023-02-06T12:24:06.900628Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.363476 25.5859691)",
+"images": [
+{
+"id": 275,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/122_06ccea3e-0479-4856-a439-d2cfba3c5c61.",
+"title": null,
+"meta": null,
+"order": 0
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+},
+{
+"id": 121,
+"manufacturer": "haklift",
+"name": "sialu60",
+"rating": 0,
+"description": "siirdealus  kuni 6000kg",
+"additionalServices": [],
+"priceHour": null,
+"priceDaily": 6.25,
+"cost": 0,
+"categoryId": 49,
+"locationId": null,
+"userId": 141,
+"startTs": "2023-02-06T06:00:21.918Z",
+"endTs": "2023-02-06T15:00:21.919Z",
+"createdTs": "2023-02-06T12:17:22.834708Z",
+"deleted": false,
+"allowVat": true,
+"automaticallyApproved": false,
+"automaticallyApprovedTxt": null,
+"productCode": null,
+"rentDays": [
+"MONDAY",
+"TUESDAY",
+"WEDNESDAY",
+"THURSDAY",
+"FRIDAY"
+],
+"inactiveReason": null,
+"location": "POINT(58.363476 25.5859691)",
+"images": [
+{
+"id": 274,
+"url": "https://s3.eu-north-1.amazonaws.com/ee.rendify.live/products/121_973b5811-fd27-4ca1-bdfd-ef0d91c97307.",
+"title": null,
+"meta": null,
+"order": 0
+}
+],
+"vacationDays": [],
+"resStartTs": null,
+"resEndTs": null,
+"reservations": []
+}
+]
