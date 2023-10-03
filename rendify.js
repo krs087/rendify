@@ -22,12 +22,6 @@ let rendifyWindow = false;
 let rendifyProducts = false;
 let rendifyZoom = false;
 
-/*
-++ add:
- * zoom level
- * automatically detect columns
-*/
-
 // Execute Rendify JS plugin
 setTimeout(rendifyAddition,2000);
 
@@ -38,7 +32,7 @@ function rendifyOption(option,fallback) {
 // Generate Rendify addition window and elements
 function rendifyAddition() {
 	if(rendifyScript) {
-		rendifyTheme = rendifyOption('theme','default');
+		rendifyTheme = rendifyOption('theme',false);
 		rendifyItmes = rendifyOption('items',12);
 		rendifyCustomer = rendifyOption('customer',false);
 		rendifyZoom = rendifyOption('zoom',false);
@@ -54,19 +48,18 @@ function rendifyAddition() {
 			if(rendifyWindow) {
 				// Add zoom level
 				if(rendifyZoom) { rendifyWindow.setAttribute('style','zoom:'+rendifyZoom+'%;'); }
+				if(rendifyTheme) { rendifyWindow.classList.add(rendifyTheme); }
 				// Add scripts and styles
 				rendifyWindow.innerHTML += '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;900&amp;display=swap">';
 				rendifyWindow.innerHTML += '<link rel="stylesheet" href="https://krs087.github.io/rendify/rendify.css">';
+					//rendifyWindow.innerHTML += '<link rel="stylesheet" href="http://rendify.localhost/jsplugin/rendify.css">';
 				// Add containers
 				rendifyWindow.innerHTML += '<div class="latest__slider"><div class="latest__slider_content" id="rendifyproducts"></div></div>';
 				rendifyWindow.innerHTML += '<a href="https://www.rendify.ee/public/customer-products/'+rendifyCustomer+'/" class="viewall" target="_blank">Vaata kõiki meie pakkumisi &#8599;</a>';
 				var rr = document.getElementById('rendifyproducts');
 				rendifyProducts = (rr) ? rr : false;
+				rr.setAttribute('style','grid-template-columns:repeat('+rendifyItmes+',1fr);');
 				// Execute next function
-				if(rr) {
-					//rendifyproducts
-					rr.setAttribute('style','grid-template-columns:repeat('+rendifyItmes+',1fr);');
-				}
 				rendifyFetch();
 			}
 		}
@@ -186,7 +179,7 @@ function rendifyFetch() {
 					});
 					rendifyData(simplifiedObj);
 				}
-			});		
+			});
 		})
 		.catch(error => {
 			console.error('Error:', error);
