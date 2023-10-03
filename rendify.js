@@ -2,7 +2,7 @@
 Rendify.ee
 Rendify.ee Addition plugin js functions
 Author: Rendify OÜ
-Updated: 2023.10.02
+Updated: 2023.10.03
 Version: 1.1
 */
 
@@ -56,7 +56,7 @@ function rendifyAddition() {
 				if(rendifyZoom) { rendifyWindow.setAttribute('style','zoom:'+rendifyZoom+'%;'); }
 				// Add scripts and styles
 				rendifyWindow.innerHTML += '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;900&amp;display=swap">';
-				rendifyWindow.innerHTML += '<link rel="stylesheet" href="http://rendify.localhost/jsplugin/rendify.css">';
+				rendifyWindow.innerHTML += '<link rel="stylesheet" href="https://krs087.github.io/rendify/rendify.css">';
 				// Add containers
 				rendifyWindow.innerHTML += '<div class="latest__slider"><div class="latest__slider_content" id="rendifyproducts"></div></div>';
 				rendifyWindow.innerHTML += '<a href="https://www.rendify.ee/public/customer-products/'+rendifyCustomer+'/" class="viewall" target="_blank">Vaata kõiki meie pakkumisi &#8599;</a>';
