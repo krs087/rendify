@@ -2,7 +2,7 @@
 Rendify.ee
 Rendify.ee Addition plugin stylesheet
 Author: Rendify OÜ
-Updated: 2023.10.02
+Updated: 2023.10.03
 Version: 1.1
 */
 
@@ -16,8 +16,10 @@ Version: 1.1
 	box-sizing: border-box;
 	background: #F8F8F8;
 	padding: 12px 0 4px;
+}
+#rendifywindow.shadow {
 	border-radius: 12px;
-    margin: 8px;
+	margin: 8px;
 	box-shadow: 0 4px 20px #00000029;
 }
 
