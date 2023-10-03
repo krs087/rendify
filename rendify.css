@@ -1,0 +1,179 @@
+/*
+Rendify.ee
+Rendify.ee Addition plugin stylesheet
+Author: Rendify OÜ
+Updated: 2023.10.02
+Version: 1.1
+*/
+
+/* RENDIFY */
+#rendifywindow, #rendifywindow * {
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif !important;
+}
+
+#rendifywindow {
+	box-sizing: border-box;
+	background: #F8F8F8;
+	padding: 12px 0 4px;
+	border-radius: 12px;
+    margin: 8px;
+	box-shadow: 0 4px 20px #00000029;
+}
+
+#rendifywindow .content {
+	padding-top: 80px;
+}
+
+/* Slider element */
+#rendifywindow .latest__slider {
+	position: relative;
+	width: 100%;
+}
+#rendifywindow .latest__slider_content {
+	position: relative;
+	display: grid;
+	grid-column-gap: 53px;
+	align-items: stretch;
+	overflow-y: hidden;
+	overflow-x: scroll;
+	cursor: e-resize;
+	padding-bottom: 8px;
+	padding: 0 20px 0 32px;
+}
+#rendifywindow .latest__slider_content::-webkit-scrollbar { height: 8px; }
+#rendifywindow .latest__slider_content::-webkit-scrollbar-track { background: transparent; }
+#rendifywindow .latest__slider_content::-webkit-scrollbar-thumb { background: #0c0e3d14; border-radius: 4px; }
+#rendifywindow .latest__slider:hover .latest__slider_content::-webkit-scrollbar-thumb,
+#rendifywindow .latest__slider_content::-webkit-scrollbar-thumb:hover { background: #0c0e3d2f; }
+
+
+#rendifywindow .latest__box {
+	width: 22vw;
+	min-width: 280px;
+	max-width: 340px;
+	padding: 5px;
+	scroll-behavior: smooth;
+	display: flex;
+	align-items: stretch;
+}
+#rendifywindow .latest__box_content {
+	width: 100%;
+	height: 100%;
+	border: 6px solid #39C689;
+	border-radius: 200px 200px 24px 24px;
+	padding: 19px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	position: relative;
+	text-align: center;
+}
+#rendifywindow .latest__box_content::before,
+#rendifywindow .latest__box_content::after {
+	position: absolute;
+	z-index: 1;
+	content: '';
+	pointer-events: none;
+}
+#rendifywindow .latest__box_content::before {
+	background: #F8F8F8;
+	height: 113px;
+	width: 14px;
+	bottom: 23px;
+	left: -9px;
+}
+#rendifywindow .latest__box_content::after {
+	background: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjEiIGhlaWdodD0iNzIiIHZpZXdCb3g9IjAgMCA2MSA3MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTYwLjY1MTEgMC43MDk5NjFMMzAuNjUxMSAxMy40NUwwLjY2MTEzMyAwLjcwOTk2MUwzMC42NTExIDcxLjgwOTlMNjAuNjUxMSAwLjcwOTk2MVoiIGZpbGw9IiMzOUM2ODkiLz4KPC9zdmc+Cg==") center no-repeat;
+	background-size: contain;
+	height: 50px;
+	width: 42px;
+	bottom: 109px;
+	left: -23px;
+}
+#rendifywindow img.latest__box_image {
+	width: 100%;
+	aspect-ratio: 1;
+	border-radius: 50%;
+	object-fit: cover;
+}
+#rendifywindow .latest__box_title {
+	font-size: 17px;
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 1;
+	margin-top: 11px;
+	color: #0C0E3D;
+}
+#rendifywindow .latest__box_info {
+	padding: 6px 0;
+	color: #0C0E3D;
+}
+#rendifywindow .latest__box_info strong {
+	font-weight: 700;
+}
+
+#rendifywindow .latest__box_info span, #rendifywindow .latest__box_info strong {
+	display: block;
+}
+#rendifywindow .latest__box_info span.title {
+	font-size: 17px;
+	font-weight: 500;
+}
+#rendifywindow .latest__box_info strong.time {
+	font-size: 19px;
+	font-weight: 700;
+}
+#rendifywindow .latest__box_info strong.day {
+	font-size: 16px;
+	font-weight: 700;
+	margin-top: -6px;
+}
+
+#rendifywindow .latest__box_button {
+	font-size: 28px;
+}
+#rendifywindow a.latest__box_button {
+	background-color: #39C689;
+	color: #FFFFFF;
+	font-size: 28px;
+	font-weight: 900;
+	transition: background .2s ease-in-out;
+	width: 100%;
+	margin-top: 16px;
+	border-radius: 8px;
+	text-decoration: none;
+	height: 37px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	line-height: 0;
+	border-radius: 6px;
+}
+#rendifywindow a.latest__box_button:hover {
+	background-color: #0C0E3D;
+}
+
+#rendifywindow a.viewall {
+    display: inline-block;
+    margin: 32px auto 18px;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1 !important;
+    text-align: right;
+    text-rendering: geometricPrecision;
+    box-sizing: inherit;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 12px 54px 13px;
+    transition: background .35s ease-in-out;
+    text-transform: uppercase;
+    font-weight: 700;
+    background: #39C689;
+    color: #FFFFFF;
+    font-size: 19px;
+    cursor: pointer;
+}
+#rendifywindow a.viewall:hover {
+	background: #0c0e3d;
+}
